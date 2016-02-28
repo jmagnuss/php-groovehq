@@ -11,10 +11,11 @@
             , "homepage": "http://jadb.io"
         }
     ]
+    , "minimum-stability": "dev"
     , "require": {
         "cakephp/utility": "dev-master"
-        , "guzzlehttp/guzzle": "4.*"
-        , "guzzlehttp/guzzle-services": "0.3.*"
+        , "guzzlehttp/guzzle": "6.*"
+        , "guzzlehttp/guzzle-services": "0.5.*"
         , "sabre/xml" : "dev-master"
     }
     , "require-dev": {
